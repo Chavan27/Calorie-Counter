@@ -23,9 +23,9 @@
 
 ## Storyboard :
  
-<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/Screenshot%202019-07-14%20at%2011.40.26%20PM.png" width="90%">
+<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/Screenshot%202019-07-14%20at%2011.40.26%20PM.png" width="100%">
  
  
-![alt text](https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg)
+
 
 
