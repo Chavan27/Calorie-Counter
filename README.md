@@ -1,5 +1,4 @@
-# Calorie-Counter
-CSC 690 Final Project
+<p align="center"> <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/Screenshot%202019-07-15%20at%2010.13.47%20PM.png" width="40%">
 
 
 # Milestone 1: Proposal (11/15/2018)
