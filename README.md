@@ -18,7 +18,7 @@
 
 
 ## Initial Wireframe : 
-<p align="center"> <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg" width="40%">
+<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg" width="70%">
  
  
  
