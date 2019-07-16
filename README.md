@@ -5,16 +5,16 @@
 
  |         | Existing Features  |
 ----------|-----------------
-:heavy_plus_sign: | List of common food items
-:heavy_check_mark: | Clicking a picture of the food item
-:x: | Search feature to find from the list of food items
-:heavy_exclamation_mark: | Calories remaining for the day
+:corn: | List of common food items
+:white_check_mark: | Clicking a picture of the food item
+:mag: | Search feature to find from the list of food items
+:open_file_folder: | Calories remaining for the day
 
  |         | Future Features  |
 ----------|-----------------
-:heavy_plus_sign: | Calories exerted using Step Count
-:heavy_check_mark: | Input Calories using Siri Shortcut
-:x: | Reminders to eat healthy through Notifications
+:walking: | Calories exerted using Step Count
+:iphone: | Input Calories using Siri Shortcut
+:heavy_exclamation_mark: | Reminders to eat healthy through Notifications
 
 
 ## Initial Wireframe : 
