@@ -16,7 +16,8 @@
 :heavy_check_mark: | Input Calories using Siri Shortcut
 :x: | Reminders to eat healthy through Notifications
 
-Initial Wireframe : 
+
+## Initial Wireframe : 
 ![alt text](https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg)
 
 
