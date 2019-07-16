@@ -20,8 +20,10 @@
 ## Initial Wireframe : 
 <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg" width="70%">
  
+
+## Storyborad :
  
- 
+<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/Screenshot%202019-07-14%20at%2011.40.26%20PM.png" width="70%">
  
  
 ![alt text](https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg)
