@@ -19,7 +19,7 @@
 
 ## Technologies Used
 
-<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/swift-og.png" width="425"/> <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/CoreML.png" width="425"/>
+<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/swift-og.png" width="40%"/> <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/CoreML.png" width="40%"/>
 
 
 ## Initial Wireframe : 
