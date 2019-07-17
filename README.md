@@ -17,6 +17,11 @@
 :heavy_exclamation_mark: | Reminders to eat healthy through Notifications
 
 
+## Technologies Used
+
+<img src="https://github.com/Chavan27/Calorie-Counter/blob/master/swift-og.png" width="425"/> <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/CoreML.png" width="425"/>
+
+
 ## Initial Wireframe : 
 <img src="https://github.com/Chavan27/Calorie-Counter/blob/master/image122.jpeg" width="70%">
  
